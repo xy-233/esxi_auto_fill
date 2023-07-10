@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         esxi自动填写
-// @version      2.0
+// @version      2.1
 // @description  A tampermonkey script that automatically fills in the password for the login page.
 // @author       xy2333
 // @match        *://your_esxi_domain/*
